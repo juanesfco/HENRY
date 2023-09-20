@@ -1,4 +1,4 @@
-funny,posted,last_edited,item_id,helpful,recommend,review
-,"Posted March 20, 2015.",,440,No ratings yet,True,สนุกมาก
-,"Posted November 19, 2014.",,51100,No ratings yet,True,มันมากจนตาย
-,"Posted November 2, 2013.",,1250,No ratings yet,True,มันส์มาก
+posted,item_id,recommend,review
+2015-03-20,440,True,สนุกมาก
+2014-11-19,51100,True,มันมากจนตาย
+2013-11-02,1250,True,มันส์มาก

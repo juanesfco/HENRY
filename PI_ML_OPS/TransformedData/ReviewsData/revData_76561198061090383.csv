@@ -1,7 +1,7 @@
-funny,posted,last_edited,item_id,helpful,recommend,review
-,"Posted March 3, 2014.",,2400,No ratings yet,True,really good
-,"Posted March 3, 2014.",,224600,No ratings yet,False,"Patching took ages and stuffed up, and made it look like I played it more than I did."
-,"Posted March 3, 2014.","Last edited July 13, 2014.",104900,No ratings yet,False,"Killing Floor, with dinosaurs and bad animations."
-,"Posted March 3, 2014.",,49520,No ratings yet,True,alsofinishedwithdanag
-,"Posted March 3, 2014.",,43110,No ratings yet,True,atmospheric as
-,"Posted March 3, 2014.",,55230,No ratings yet,True,finishedwithdanag
+posted,item_id,recommend,review
+2014-03-03,2400,True,really good
+2014-03-03,224600,False,"Patching took ages and stuffed up, and made it look like I played it more than I did."
+2014-03-03,104900,False,"Killing Floor, with dinosaurs and bad animations."
+2014-03-03,49520,True,alsofinishedwithdanag
+2014-03-03,43110,True,atmospheric as
+2014-03-03,55230,True,finishedwithdanag
