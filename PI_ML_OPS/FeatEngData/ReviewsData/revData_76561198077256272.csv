@@ -1,3 +1,3 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted May 25, 2015.",,730,No ratings yet,True,0
-,"Posted May 25, 2015.",,222880,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2015-05-25,730,True,0
+2015-05-25,222880,True,2

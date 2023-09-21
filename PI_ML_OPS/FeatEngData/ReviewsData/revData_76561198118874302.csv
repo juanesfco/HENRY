@@ -1,8 +1,8 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,Posted July 21.,,298600,No ratings yet,True,2
-,Posted July 21.,,395980,No ratings yet,False,2
-,Posted February 22.,,317400,No ratings yet,True,2
-,Posted February 19.,,35480,No ratings yet,True,2
-,Posted February 13.,,270550,No ratings yet,True,2
-,"Posted November 26, 2015.",,620,No ratings yet,True,1
-,"Posted November 17, 2015.",,252490,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2016-07-21,298600,True,2
+2016-07-21,395980,False,2
+2016-02-22,317400,True,2
+2016-02-19,35480,True,2
+2016-02-13,270550,True,2
+2015-11-26,620,True,1
+2015-11-17,252490,True,2

@@ -1,7 +1,7 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted November 5, 2015.",,72850,No ratings yet,True,2
-,"Posted November 5, 2015.",,10500,No ratings yet,True,2
-,"Posted November 5, 2015.","Last edited November 5, 2015.",236390,No ratings yet,True,2
-,"Posted November 5, 2015.","Last edited November 5, 2015.",298110,No ratings yet,True,1
-,"Posted November 5, 2015.","Last edited November 5, 2015.",234140,No ratings yet,False,2
-,"Posted November 5, 2015.","Last edited November 5, 2015.",107410,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2015-11-05,72850,True,2
+2015-11-05,10500,True,2
+2015-11-05,236390,True,2
+2015-11-05,298110,True,1
+2015-11-05,234140,False,2
+2015-11-05,107410,True,2

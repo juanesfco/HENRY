@@ -1,6 +1,6 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-841 people found this review funny,"Posted May 3, 2015.",,242920,589 of 639 people (92%) found this review helpful,True,2
-2 people found this review funny,"Posted October 10, 2015.",,251570,2 of 3 people (67%) found this review helpful,True,1
-,Posted March 1.,,391540,No ratings yet,True,1
-1 person found this review funny,"Posted December 17, 2015.",,238460,No ratings yet,True,2
-1 person found this review funny,"Posted December 17, 2015.",,221380,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2015-05-03,242920,True,2
+2015-10-10,251570,True,1
+2016-03-01,391540,True,1
+2015-12-17,238460,True,2
+2015-12-17,221380,True,2

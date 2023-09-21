@@ -1,4 +1,4 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted December 12, 2014.",,22380,4 of 28 people (14%) found this review helpful,False,0
-,"Posted July 21, 2014.",,49520,No ratings yet,True,0
-,"Posted June 25, 2014.",,231160,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2014-12-12,22380,False,0
+2014-07-21,49520,True,0
+2014-06-25,231160,True,1

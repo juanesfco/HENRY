@@ -1,7 +1,7 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted May 24, 2014.",,12120,1 of 1 people (100%) found this review helpful,True,2
-,"Posted September 4, 2014.",,270170,1 of 2 people (50%) found this review helpful,False,1
-,"Posted May 24, 2014.",,225140,No ratings yet,True,0
-,"Posted May 24, 2014.",,211600,No ratings yet,True,2
-,"Posted May 11, 2014.",,42910,No ratings yet,True,0
-,"Posted February 15, 2014.",,223470,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2014-05-24,12120,True,2
+2014-09-04,270170,False,1
+2014-05-24,225140,True,0
+2014-05-24,211600,True,2
+2014-05-11,42910,True,0
+2014-02-15,223470,True,1

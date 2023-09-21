@@ -1,9 +1,9 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted March 7, 2015.",,265930,No ratings yet,True,2
-,"Posted March 7, 2015.",,265630,No ratings yet,True,2
-,"Posted March 7, 2015.",,220240,No ratings yet,True,2
-,"Posted March 7, 2015.",,221100,No ratings yet,True,2
-,"Posted March 7, 2015.",,252490,No ratings yet,True,2
-,"Posted March 7, 2015.",,4000,No ratings yet,True,2
-,"Posted March 7, 2015.",,11610,No ratings yet,True,2
-1 person found this review funny,"Posted March 7, 2015.",,440,No ratings yet,True,0
+posted,item_id,recommend,sentiment_analysis
+2015-03-07,265930,True,2
+2015-03-07,265630,True,2
+2015-03-07,220240,True,2
+2015-03-07,221100,True,2
+2015-03-07,252490,True,2
+2015-03-07,4000,True,2
+2015-03-07,11610,True,2
+2015-03-07,440,True,0

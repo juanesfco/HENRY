@@ -1,5 +1,5 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,Posted May 22.,,302830,No ratings yet,True,2
-,Posted February 13.,,730,No ratings yet,True,1
-1 person found this review funny,"Posted March 25, 2015.",,314030,No ratings yet,True,1
-1 person found this review funny,"Posted February 14, 2015.",,70000,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2016-05-22,302830,True,2
+2016-02-13,730,True,1
+2015-03-25,314030,True,1
+2015-02-14,70000,True,1

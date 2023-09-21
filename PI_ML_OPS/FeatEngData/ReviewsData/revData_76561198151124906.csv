@@ -1,6 +1,6 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted June 25, 2015.",Last edited April 26.,344760,No ratings yet,False,1
-,"Posted June 14, 2015.",,351290,No ratings yet,False,1
-,"Posted May 8, 2015.",,206210,No ratings yet,True,2
-,"Posted May 8, 2015.",,730,No ratings yet,True,2
-,"Posted November 28, 2014.",Last edited March 3.,299860,No ratings yet,False,0
+posted,item_id,recommend,sentiment_analysis
+2015-06-25,344760,False,1
+2015-06-14,351290,False,1
+2015-05-08,206210,True,2
+2015-05-08,730,True,2
+2014-11-28,299860,False,0

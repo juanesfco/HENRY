@@ -1,11 +1,11 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-5 people found this review funny,"Posted March 11, 2015.",,346120,24 of 29 people (83%) found this review helpful,True,2
-3 people found this review funny,"Posted July 27, 2014.","Last edited May 4, 2015.",304930,2 of 3 people (67%) found this review helpful,True,0
-,Posted April 17.,,250900,1 of 2 people (50%) found this review helpful,True,2
-,"Posted August 30, 2015.",,388520,1 of 2 people (50%) found this review helpful,True,1
-,"Posted July 6, 2015.",,243870,1 of 2 people (50%) found this review helpful,False,0
-1 person found this review funny,"Posted June 27, 2015.",,362890,1 of 2 people (50%) found this review helpful,True,2
-,"Posted June 30, 2014.","Last edited July 30, 2015.",4000,1 of 2 people (50%) found this review helpful,True,1
-,"Posted June 24, 2015.",,274190,0 of 2 people (0%) found this review helpful,True,1
-,Posted February 11.,,441600,2 of 7 people (29%) found this review helpful,True,2
-,"Posted August 9, 2015.",,333930,No ratings yet,False,0
+posted,item_id,recommend,sentiment_analysis
+2015-03-11,346120,True,2
+2014-07-27,304930,True,0
+2016-04-17,250900,True,2
+2015-08-30,388520,True,1
+2015-07-06,243870,False,0
+2015-06-27,362890,True,2
+2014-06-30,4000,True,1
+2015-06-24,274190,True,1
+2016-02-11,441600,True,2
+2015-08-09,333930,False,0

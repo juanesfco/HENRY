@@ -1,11 +1,11 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-2 people found this review funny,Posted May 24.,Last edited August 22.,364360,7 of 9 people (78%) found this review helpful,True,2
-8 people found this review funny,"Posted June 1, 2014.",Last edited January 30.,22380,7 of 9 people (78%) found this review helpful,True,1
-2 people found this review funny,"Posted June 1, 2014.",,6020,7 of 9 people (78%) found this review helpful,True,1
-1 person found this review funny,"Posted September 16, 2014.","Last edited September 16, 2014.",224260,4 of 6 people (67%) found this review helpful,True,1
-1 person found this review funny,"Posted January 25, 2014.",Last edited August 22.,221100,6 of 10 people (60%) found this review helpful,True,1
-1 person found this review funny,"Posted June 1, 2014.",Last edited August 22.,35450,3 of 5 people (60%) found this review helpful,True,1
-1 person found this review funny,Posted February 18.,Last edited August 22.,246620,1 of 2 people (50%) found this review helpful,True,2
-,"Posted June 1, 2013.","Last edited October 18, 2014.",105600,2 of 4 people (50%) found this review helpful,True,2
-1 person found this review funny,"Posted February 9, 2013.","Last edited November 27, 2014.",4000,2 of 5 people (40%) found this review helpful,True,2
-,"Posted June 1, 2014.","Last edited June 1, 2014.",211820,1 of 3 people (33%) found this review helpful,False,0
+posted,item_id,recommend,sentiment_analysis
+2016-05-24,364360,True,2
+2014-06-01,22380,True,1
+2014-06-01,6020,True,1
+2014-09-16,224260,True,1
+2014-01-25,221100,True,1
+2014-06-01,35450,True,1
+2016-02-18,246620,True,2
+2013-06-01,105600,True,2
+2013-02-09,4000,True,2
+2014-06-01,211820,False,0

@@ -1,5 +1,5 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted October 10, 2015.",,224260,1 of 1 people (100%) found this review helpful,True,1
-,"Posted January 19, 2014.",,4000,1 of 1 people (100%) found this review helpful,True,1
-9 people found this review funny,"Posted December 10, 2015.",,390520,135 of 643 people (21%) found this review helpful,True,2
-,"Posted April 11, 2013.",,440,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2015-10-10,224260,True,1
+2014-01-19,4000,True,1
+2015-12-10,390520,True,2
+2013-04-11,440,True,1

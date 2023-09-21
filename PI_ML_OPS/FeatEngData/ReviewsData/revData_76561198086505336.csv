@@ -1,10 +1,10 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted December 10, 2015.",,250900,1 of 1 people (100%) found this review helpful,True,1
-1 person found this review funny,"Posted November 27, 2015.",,417860,1 of 1 people (100%) found this review helpful,True,2
-1 person found this review funny,"Posted October 27, 2015.",,240,1 of 1 people (100%) found this review helpful,True,1
-,"Posted June 30, 2014.",,440,1 of 2 people (50%) found this review helpful,True,2
-,"Posted July 14, 2015.",,105600,0 of 1 people (0%) found this review helpful,True,1
-,Posted August 21.,,570,No ratings yet,True,0
-,Posted February 19.,,220,No ratings yet,True,1
-,"Posted July 1, 2015.",,8870,No ratings yet,True,2
-,"Posted January 12, 2015.",Last edited March 25.,730,No ratings yet,True,0
+posted,item_id,recommend,sentiment_analysis
+2015-12-10,250900,True,1
+2015-11-27,417860,True,2
+2015-10-27,240,True,1
+2014-06-30,440,True,2
+2015-07-14,105600,True,1
+2016-08-21,570,True,0
+2016-02-19,220,True,1
+2015-07-01,8870,True,2
+2015-01-12,730,True,0

@@ -1,11 +1,11 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,Posted July 25.,,223470,No ratings yet,True,0
-,"Posted July 17, 2012.",,42680,No ratings yet,True,2
-,"Posted June 1, 2012.",,31280,No ratings yet,True,2
-,"Posted May 9, 2012.",,620,No ratings yet,True,2
-,"Posted May 9, 2012.",,72850,No ratings yet,True,2
-,"Posted December 27, 2011.",,400,No ratings yet,True,0
-,"Posted July 28, 2011.",,630,No ratings yet,True,0
-,"Posted July 28, 2011.",,550,No ratings yet,True,0
-,"Posted July 28, 2011.",,4000,No ratings yet,True,2
-,"Posted June 6, 2011.",,440,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2016-07-25,223470,True,0
+2012-07-17,42680,True,2
+2012-06-01,31280,True,2
+2012-05-09,620,True,2
+2012-05-09,72850,True,2
+2011-12-27,400,True,0
+2011-07-28,630,True,0
+2011-07-28,550,True,0
+2011-07-28,4000,True,2
+2011-06-06,440,True,2

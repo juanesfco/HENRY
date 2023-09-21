@@ -1,11 +1,11 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted October 25, 2015.",,218230,0 of 1 people (0%) found this review helpful,True,0
-,"Posted September 23, 2015.",,55230,0 of 1 people (0%) found this review helpful,True,1
-,Posted August 31.,,241930,No ratings yet,True,2
-,"Posted November 20, 2015.","Last edited November 21, 2015.",417860,No ratings yet,True,0
-,"Posted November 3, 2015.",,223470,No ratings yet,True,1
-,"Posted October 30, 2015.",,200510,No ratings yet,True,1
-,"Posted October 23, 2015.",,22330,No ratings yet,True,0
-,"Posted October 21, 2015.",,304930,No ratings yet,True,2
-,"Posted October 17, 2015.",,4000,No ratings yet,True,0
-,"Posted July 21, 2015.",,317360,No ratings yet,True,0
+posted,item_id,recommend,sentiment_analysis
+2015-10-25,218230,True,0
+2015-09-23,55230,True,1
+2016-08-31,241930,True,2
+2015-11-20,417860,True,0
+2015-11-03,223470,True,1
+2015-10-30,200510,True,1
+2015-10-23,22330,True,0
+2015-10-21,304930,True,2
+2015-10-17,4000,True,0
+2015-07-21,317360,True,0

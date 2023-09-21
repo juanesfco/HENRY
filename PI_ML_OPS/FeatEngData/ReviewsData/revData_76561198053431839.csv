@@ -1,4 +1,4 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted July 11, 2013.",,32370,No ratings yet,True,2
-,"Posted July 11, 2013.",,7670,No ratings yet,True,2
-,"Posted October 25, 2012.","Last edited February 7, 2015.",550,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2013-07-11,32370,True,2
+2013-07-11,7670,True,2
+2012-10-25,550,True,2

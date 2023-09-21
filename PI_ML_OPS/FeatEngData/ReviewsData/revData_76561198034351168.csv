@@ -1,5 +1,5 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted September 16, 2011.",,91310,1 of 1 people (100%) found this review helpful,True,1
-,"Posted September 16, 2011.",,73210,1 of 2 people (50%) found this review helpful,True,2
-,"Posted December 27, 2011.",,42960,No ratings yet,True,2
-,"Posted September 4, 2011.",,25800,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2011-09-16,91310,True,1
+2011-09-16,73210,True,2
+2011-12-27,42960,True,2
+2011-09-04,25800,True,2

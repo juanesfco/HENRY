@@ -1,6 +1,6 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted February 20, 2014.",,220,No ratings yet,True,2
-,"Posted February 20, 2014.",,70,No ratings yet,True,2
-,"Posted February 20, 2014.",,209080,No ratings yet,True,2
-,"Posted February 20, 2014.",,4000,No ratings yet,True,2
-,"Posted February 20, 2014.",,220240,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2014-02-20,220,True,2
+2014-02-20,70,True,2
+2014-02-20,209080,True,2
+2014-02-20,4000,True,2
+2014-02-20,220240,True,2

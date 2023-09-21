@@ -1,9 +1,9 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted May 15, 2015.",,420,No ratings yet,True,0
-,"Posted May 15, 2015.",,380,No ratings yet,True,1
-,"Posted March 2, 2015.",,620,No ratings yet,True,0
-,"Posted November 16, 2014.","Last edited March 2, 2015.",233720,No ratings yet,False,0
-,"Posted August 13, 2014.","Last edited March 2, 2015.",400,No ratings yet,True,1
-,"Posted July 20, 2014.","Last edited March 2, 2015.",207610,No ratings yet,True,1
-,"Posted June 8, 2014.","Last edited March 2, 2015.",4000,No ratings yet,True,0
-,"Posted June 16, 2013.","Last edited March 2, 2015.",440,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2015-05-15,420,True,0
+2015-05-15,380,True,1
+2015-03-02,620,True,0
+2014-11-16,233720,False,0
+2014-08-13,400,True,1
+2014-07-20,207610,True,1
+2014-06-08,4000,True,0
+2013-06-16,440,True,2

@@ -1,10 +1,10 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted November 7, 2015.",,24200,No ratings yet,False,0
-,"Posted July 16, 2015.",,333980,No ratings yet,True,2
-,"Posted May 29, 2015.",,253980,No ratings yet,False,0
-,"Posted April 4, 2015.",,301910,No ratings yet,False,1
-,"Posted February 28, 2015.",,319630,No ratings yet,True,1
-,"Posted February 6, 2015.",Last edited June 7.,313120,No ratings yet,False,0
-,"Posted December 26, 2014.",,209370,No ratings yet,True,2
-,"Posted March 20, 2012.",,203810,No ratings yet,True,1
-,"Posted August 4, 2011.",,50130,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2015-11-07,24200,False,0
+2015-07-16,333980,True,2
+2015-05-29,253980,False,0
+2015-04-04,301910,False,1
+2015-02-28,319630,True,1
+2015-02-06,313120,False,0
+2014-12-26,209370,True,2
+2012-03-20,203810,True,1
+2011-08-04,50130,True,1

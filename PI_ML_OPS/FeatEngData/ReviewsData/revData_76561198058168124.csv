@@ -1,9 +1,9 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted November 14, 2015.",,222880,1 of 2 people (50%) found this review helpful,True,2
-,"Posted July 21, 2014.",,72850,1 of 2 people (50%) found this review helpful,True,2
-,Posted April 17.,,440,No ratings yet,True,2
-,Posted January 3.,,105450,No ratings yet,True,2
-,"Posted December 8, 2015.",,417860,No ratings yet,True,1
-,"Posted November 14, 2015.","Last edited November 16, 2015.",32370,No ratings yet,True,2
-,"Posted November 14, 2015.",,4000,No ratings yet,True,1
-,"Posted November 14, 2015.",,730,No ratings yet,True,0
+posted,item_id,recommend,sentiment_analysis
+2015-11-14,222880,True,2
+2014-07-21,72850,True,2
+2016-04-17,440,True,2
+2016-01-03,105450,True,2
+2015-12-08,417860,True,1
+2015-11-14,32370,True,2
+2015-11-14,4000,True,1
+2015-11-14,730,True,0

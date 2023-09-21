@@ -1,4 +1,4 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,Posted March 19.,,270550,No ratings yet,True,1
-1 person found this review funny,"Posted September 24, 2015.",,730,No ratings yet,True,2
-,"Posted April 24, 2014.",,440,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2016-03-19,270550,True,1
+2015-09-24,730,True,2
+2014-04-24,440,True,1

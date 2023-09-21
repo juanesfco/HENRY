@@ -1,6 +1,6 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,Posted June 27.,,214420,No ratings yet,True,2
-,Posted June 26.,,365670,No ratings yet,True,1
-,Posted June 26.,,440,No ratings yet,True,2
-,Posted June 26.,,4000,No ratings yet,True,2
-,"Posted May 6, 2013.",,221260,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2016-06-27,214420,True,2
+2016-06-26,365670,True,1
+2016-06-26,440,True,2
+2016-06-26,4000,True,2
+2013-05-06,221260,True,1

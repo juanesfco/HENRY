@@ -1,8 +1,8 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-3 people found this review funny,Posted March 8.,,367500,55 of 66 people (83%) found this review helpful,True,2
-,Posted September 3.,Last edited September 3.,383270,5 of 6 people (83%) found this review helpful,True,1
-,Posted March 8.,,335670,2 of 2 people (100%) found this review helpful,True,0
-,"Posted September 28, 2015.","Last edited September 28, 2015.",391540,4 of 6 people (67%) found this review helpful,True,2
-,"Posted September 28, 2015.",,234140,0 of 1 people (0%) found this review helpful,True,2
-,"Posted November 27, 2013.",,236850,No ratings yet,True,2
-,"Posted November 29, 2012.",,219640,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2016-03-08,367500,True,2
+2016-09-03,383270,True,1
+2016-03-08,335670,True,0
+2015-09-28,391540,True,2
+2015-09-28,234140,True,2
+2013-11-27,236850,True,2
+2012-11-29,219640,True,1

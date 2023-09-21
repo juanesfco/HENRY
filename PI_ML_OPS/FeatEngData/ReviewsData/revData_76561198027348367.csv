@@ -1,8 +1,8 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,Posted March 16.,,201810,No ratings yet,False,0
-,Posted March 16.,,261180,No ratings yet,True,2
-,Posted March 16.,,219150,No ratings yet,True,0
-,Posted March 16.,,91700,No ratings yet,True,0
-,Posted March 16.,,730,No ratings yet,True,0
-,Posted March 16.,,363970,No ratings yet,False,0
-,Posted March 16.,,274190,No ratings yet,False,0
+posted,item_id,recommend,sentiment_analysis
+2016-03-16,201810,False,0
+2016-03-16,261180,True,2
+2016-03-16,219150,True,0
+2016-03-16,91700,True,0
+2016-03-16,730,True,0
+2016-03-16,363970,False,0
+2016-03-16,274190,False,0

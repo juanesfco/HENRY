@@ -1,5 +1,5 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-,"Posted May 25, 2013.",,236090,No ratings yet,True,2
-,"Posted February 4, 2013.",,212480,No ratings yet,True,1
-,"Posted August 11, 2012.",,207750,No ratings yet,True,1
-,"Posted November 16, 2011.",,12900,No ratings yet,True,2
+posted,item_id,recommend,sentiment_analysis
+2013-05-25,236090,True,2
+2013-02-04,212480,True,1
+2012-08-11,207750,True,1
+2011-11-16,12900,True,2

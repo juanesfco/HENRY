@@ -1,4 +1,4 @@
-funny,posted,last_edited,item_id,helpful,recommend,sentiment_analysis
-2 people found this review funny,Posted August 31.,,294100,2 of 2 people (100%) found this review helpful,True,0
-,"Posted July 9, 2014.",,212070,3 of 5 people (60%) found this review helpful,True,2
-,"Posted March 13, 2014.",,264140,No ratings yet,True,1
+posted,item_id,recommend,sentiment_analysis
+2016-08-31,294100,True,0
+2014-07-09,212070,True,2
+2014-03-13,264140,True,1
