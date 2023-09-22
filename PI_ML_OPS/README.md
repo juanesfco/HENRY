@@ -66,16 +66,50 @@ In this step we create important datasets that will later be used by the API Fun
 
 - TransformedData/df_userItems.csv
 - TransformedData/ItemsData/itemsData_<steam_id>.csv
-- TransformedData/df_userItems_R.csv#
+- TransformedData/df_userItems_R.csv
 - TransformedData/df_reviews.csv
 - TransformedData/ReviewsData/revData_<steam_id>.csv
-- TransformedData/df_steamGames.csv#
+- TransformedData/df_steamGames.csv
 
 were used in the `dataCreation.ipynb` notebook. Procedure, difficulties and solutions are detailed there.
 
 The results:
 
+- APIData/df_userItems.csv
+- APIData/ItemsData/itemsData_<steam_id>.csv
 - APIData/genresRank.csv
 - APIData/GenresData/genreData_<genre>.csv
 - APIData/df_steamGames.csv
+- APIData/df_reviews.csv
+- APIData/ReviewsData/revData_<steam_id>.csv
+- APIData/df_reviews_r.csv
+- APIData/df_inputs.csv
 
+are saved in `APIData` folder and can be opened using Pandas.
+
+## Step 5. Exploratory Data Analysis
+
+In this step we use several techniques to explore the steam games data. The data files given:
+
+- APIData/df_steamGames.csv
+
+were used in the `eda.ipynb` notebook. Procedure, difficulties and solutions are detailed there.
+
+## Step 6. Machine Learning Model
+
+In this step we create the machine learning model to comply with desired functions. Datasets are also created to consume less memory in the API. The data files given:
+
+- APIData/df_steamGames.csv
+- APIData/df_userItems.csv
+- APIData/ItemsData/itemsData_<steam_id>.csv
+
+were used in the `mlModels.ipynb`. Procedure, difficulties and solutions are detailed there.
+
+The results:
+
+- APIData/MLData/df_cosineSim_gR.csv
+- APIData/MLData/df_top5.csv
+
+are saved in `APIData/MLData` folder and can be opened using Pandas.
+
+## Step 7. Functions Creation
