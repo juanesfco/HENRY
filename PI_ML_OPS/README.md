@@ -132,7 +132,7 @@ were used in the `main.ipynb`. Procedure, difficulties and solutions are detaile
 
 ## Step 8. API Creation
 
-For the creation of the API the procedure detailed in <https://render.com/docs/deploy-fastapi> was followed. The template repository was copied and converted in the following repository: <https://github.com/juanesfco/deployHenryPIMLOPS>. In that repository, the functions developed in `main.ipynb` notebook were copied into the `main.py` file and the `APIData` Folder was copied also (without heavy and unnecesary files). Finallly, a `index.html` file was created for the `root()` function of the API to reveal when entering the deployed API: 
+For the creation of the API the procedure detailed in <https://render.com/docs/deploy-fastapi> was followed. The template repository was copied and converted in the following repository: <https://github.com/juanesfco/deployHenryPIMLOPS>. In that repository, the functions developed in `main.ipynb` notebook were copied into the `main.py` file and the `APIData` Folder was copied also (without heavy and unnecesary files). It is important to also include *pandas* and *numpy* in the `requirements.txt` file. Finallly, a `index.html` file was created for the `root()` function of the API to reveal when entering the deployed API: 
 
 <https://henryplmlops.onrender.com/>
 
