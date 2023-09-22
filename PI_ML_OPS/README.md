@@ -14,15 +14,68 @@ were decompressed and converted into .csv files using the `openRawData.ipynb` no
 
 The results:
 
-- df_items.csv
-- df_steam_games.csv
-- df_reviews.csv
-- df_user_items.csv
+- Data/df_items.csv
+- Data/df_steam_games.csv
+- Data/df_reviews.csv
+- Data/df_user_items.csv
 
-can be opened using Pandas.
+are saved in the `Data` folder and can be opened using Pandas.
 
 Note that `df_items.csv` and `df_user_items.csv` contains almost the same data, however, the first one was obtained from `steam_games.json.gz` and the later was obtained from `users_items.json.gz`. This will be analyzed further on.
 
 ## Step 2. Transformations
 
-In this step we eliminate unnecesary data.
+In this step we clean, separate and imputate data. The three data files given:
+
+- Data/df_items.csv
+- Data/df_steam_games.csv
+- Data/df_reviews.csv
+- Data/df_user_items.csv
+
+were analyzed and manipulated using the `transformationsData.ipynb` notebook. Procedure, difficulties and solutions are detailed there.
+
+The results:
+
+- TransformedData/df_userItems.csv
+- TransformedData/ItemsData/itemsData_<steam_id>.csv
+- TransformedData/df_userItems_R.csv
+- TransformedData/df_reviews.csv
+- TransformedData/ReviewsData/revData_<steam_id>.csv
+- TransformedData/df_steamGames.csv
+
+are saved in `TransformedData` folder and can be opened using Pandas.
+
+## Step 3. Feature Engineering
+
+In this step we assign a sentiment value to the reviews of the users. The data files given:
+
+- TransformedData/df_reviews.csv
+- TransformedData/ReviewsData/revData_<steam_id>.csv
+
+were used in the `featureEng.ipynb` notebook. Procedure, difficulties and solutions are detailed there.
+
+The results:
+
+- FeatEngData/ReviewsData/revData_<steam_id>.csv
+
+are saved in `FeatEngData` folder and can be opened using Pandas.
+
+## Step 4. Data Creation
+
+In this step we create important datasets that will later be used by the API Functions. The data files given:
+
+- TransformedData/df_userItems.csv
+- TransformedData/ItemsData/itemsData_<steam_id>.csv
+- TransformedData/df_userItems_R.csv#
+- TransformedData/df_reviews.csv
+- TransformedData/ReviewsData/revData_<steam_id>.csv
+- TransformedData/df_steamGames.csv#
+
+were used in the `dataCreation.ipynb` notebook. Procedure, difficulties and solutions are detailed there.
+
+The results:
+
+- APIData/genresRank.csv
+- APIData/GenresData/genreData_<genre>.csv
+- APIData/df_steamGames.csv
+
