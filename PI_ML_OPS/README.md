@@ -112,4 +112,28 @@ The results:
 
 are saved in `APIData/MLData` folder and can be opened using Pandas.
 
-## Step 7. Functions Creation
+## Step 7. API Functions Creation
+
+In this step we create and test the functions that will be consumed by the API. The data files given:
+
+- APIData/df_userItems.csv
+- APIData/ItemsData/itemsData_<steam_id>.csv
+- APIData/genresRank.csv
+- APIData/GenresData/genreData_<genre>.csv
+- APIData/df_steamGames.csv
+- APIData/df_reviews.csv
+- APIData/ReviewsData/revData_<steam_id>.csv
+- APIData/df_reviews_r.csv
+- APIData/df_inputs.csv
+- APIData/MLData/df_cosineSim_gR.csv
+- APIData/MLData/df_top5.csv
+
+were used in the `main.ipynb`. Procedure, difficulties and solutions are detailed there.
+
+## Step 8. API Creation
+
+For the creation of the API the procedure detailed in <https://render.com/docs/deploy-fastapi> was followed. The template repository was copied and converted in the following repository: <https://github.com/juanesfco/deployHenryPIMLOPS>. In that repository, the functions developed in `main.ipynb` notebook were copied into the `main.py` file and the `APIData` Folder was copied also (without heavy and unnecesary files). Finallly, a `index.html` file was created for the `root()` function of the API to reveal when entering the deployed API: 
+
+<https://henryplmlops.onrender.com/>
+
+More instructions can be found there.
