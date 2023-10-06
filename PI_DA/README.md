@@ -103,11 +103,26 @@ In the figure below, the puntual locations of fatal accidents in Buenos Aires wa
 
 ## 4 - KPIs Analysis
 
-#### 4.1 - 
+#### 4.1 - Road Accidents Homicide Rate (RAHR)
+The objective is to reduce by 10% the RAHR each semester compared to the previous semester. See figure below.
 
-#### 4.2 -
+![](images/RAHR.png)
 
-#### 4.3 -
+Note that in 5 of the 12 semesters in consideration, the percentage of change between semesters dicreased by more than 10%. Including the last semester.
+
+#### 4.2 - Road Accidents Homicides with Motorbikes (RAHM)
+The objective is to reduce by 7% the RAHM each year. See figure below.
+
+![](images/RAHM.png)
+
+Note that in 3 of the 5 years in consideration, the percentage of change between years dicreased by more than 7%. Not including the last year.
+
+#### 4.3 - Road Accidents Homicides Disease Time (RAHDT)
+The objective is to increase by 25% the RAHDT each semester. See figure below.
+
+![](images/RAHDT.png)
+
+Note that in 5 of the 11 years in consideration, the percentage of change between years increased by more than 25%. Not including the last year.
 
 ## 5 - Visualization Tool
 
